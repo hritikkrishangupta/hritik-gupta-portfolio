@@ -10,7 +10,7 @@
   },
   {
     "title": "Crypto-InfoSite",
-    "image": "crpto.png",
+    "image": "assets/crypto.png",
     "period": "Dec 2024 - Feb 2025",
     "description": "Developed a dynamic cryptocurrency information web app using React and the CoinGecko API. The platform displays live prices, market trends, and historical data to help users track crypto assets effectively.",
     "tags": ["React.js", "JavaScript", "HTML", "CSS", "REST APIs", "CoinGecko API"],
