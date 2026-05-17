@@ -1,0 +1,77 @@
+[
+  {
+    "name": "HTML",
+    "shortName": "HTML",
+    "image": "assets/html.svg"
+  },
+  {
+    "name": "CSS",
+    "shortName": "CSS",
+    "image": "assets/CSS3.png"
+  },
+  {
+    "name": "JavaScript",
+    "shortName": "JS",
+    "image": "assets/JavaScript-logo.png"
+  },
+  {
+    "name": "React",
+    "shortName": "React",
+    "image": "assets/React.png"
+  },
+  {
+    "name": "Node.js",
+    "shortName": "Node",
+    "image": "assets/Node.js.png"
+  },
+  {
+    "name": "Express.js",
+    "shortName": "EX",
+    "image": "assets/Express.png"
+  },
+  {
+    "name": "MongoDB",
+    "shortName": "DB",
+    "image": "assets/mongodb.svg"
+  },
+  {
+    "name": "Python",
+    "shortName": "Py",
+    "image": "assets/python.png"
+  },
+  {
+    "name": "Java",
+    "shortName": "Java",
+    "image": "assets/java.png"
+  },
+  {
+    "name": "GitHub",
+    "shortName": "GH",
+    "image": "assets/github.png"
+  },
+  {
+    "name": "Git",
+    "shortName": "Git",
+    "image": "assets/git.svg"
+  },
+  {
+    "name": "REST APIs",
+    "shortName": "API",
+    "image": "assets/restapi.png"
+  },
+  {
+    "name": "LLM Concepts",
+    "shortName": "AI",
+    "image": "assets/ai.png"
+  },
+  {
+    "name": "Figma",
+    "shortName": "Fig",
+    "image": "assets/Figma.png"
+  },
+  {
+    "name": "Prompt Engineering",
+    "shortName": "PE",
+    "image": "assets/pe.png"
+  }
+]

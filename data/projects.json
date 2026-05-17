@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Movie Recommendation System",
+    "image": "",
+    "period": "Sep 2024 - Nov 2024",
+    "description": "Built a content-based movie recommendation system using Python and cosine similarity on a Kaggle movie dataset. The app recommends similar movies and displays posters dynamically for a more visual discovery experience.",
+    "tags": ["Python", "Streamlit", "Pandas", "Scikit-learn", "Cosine Similarity", "Pickle"],
+    "live": "https://example.com",
+    "source": "https://github.com/yourusername/movie-recommendation-system"
+  },
+  {
+    "title": "Crypto-InfoSite",
+    "image": "",
+    "period": "Dec 2024 - Feb 2025",
+    "description": "Developed a dynamic cryptocurrency information web app using React and the CoinGecko API. The platform displays live prices, market trends, and historical data to help users track crypto assets effectively.",
+    "tags": ["React.js", "JavaScript", "HTML", "CSS", "REST APIs", "CoinGecko API"],
+    "live": "https://example.com",
+    "source": "https://github.com/yourusername/crypto-infosite"
+  }
+]

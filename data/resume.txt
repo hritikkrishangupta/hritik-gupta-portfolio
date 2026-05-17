@@ -1,0 +1,8 @@
+Replace this file with your real resume.
+
+Recommended:
+- Put your actual resume file inside this data folder.
+- If your file is named resume.pdf, update the Resume link in index.html to:
+  data/resume.pdf
+
+Current portfolio contact link downloads this placeholder file.

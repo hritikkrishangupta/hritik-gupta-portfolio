@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Engineering Intern",
+    "company": "yellow.ai",
+    "period": "May 2025 - Present | Bengaluru Remote",
+    "summary": "Working with the Global GSI Team to build intelligent, agentic AI chatbot solutions that automate enterprise workflows and improve conversational experiences across business channels.",
+    "highlights": [
+      "Integrated ServiceNow, Salesforce, and DEX tools such as Nanoheal using REST APIs and custom JavaScript cloud functions.",
+      "Built and supported chatbot and voice workflows across Microsoft Teams, WhatsApp, and IVR channels.",
+      "Deployed and troubleshot scalable solutions on Azure Cloud while collaborating with partners and customers to improve reliability and performance."
+    ],
+    "tools": [
+      "JavaScript",
+      "REST APIs",
+      "Azure Cloud",
+      "ServiceNow",
+      "Salesforce",
+      "Microsoft Teams",
+      "WhatsApp",
+      "IVR",
+      "HTML",
+      "CSS"
+    ]
+  }
+]
