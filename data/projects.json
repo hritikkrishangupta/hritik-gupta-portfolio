@@ -6,7 +6,7 @@
     "description": "Built a content-based movie recommendation system using Python and cosine similarity on a Kaggle movie dataset. The app recommends similar movies and displays posters dynamically for a more visual discovery experience.",
     "tags": ["Python", "Streamlit", "Pandas", "Scikit-learn", "Cosine Similarity", "Pickle"],
     "live": "https://movie-recommendation-system-jjgcrpnib8fxzaksttyf3z.streamlit.app/",
-    "source": "https://github.com/yourusername/movie-recommendation-system"
+    "source": "https://github.com/hritikkrishangupta/movie-recommendation-system"
   },
   {
     "title": "Crypto-InfoSite",
@@ -15,6 +15,6 @@
     "description": "Developed a dynamic cryptocurrency information web app using React and the CoinGecko API. The platform displays live prices, market trends, and historical data to help users track crypto assets effectively.",
     "tags": ["React.js", "JavaScript", "HTML", "CSS", "REST APIs", "CoinGecko API"],
     "live": "https://crytoinfosite-arr8kw2ob-hritik-krishan-guptas-projects.vercel.app",
-    "source": "https://github.com/yourusername/crypto-infosite"
+    "source": "https://github.com/hritikkrishangupta/crypto-infosite"
   }
 ]
